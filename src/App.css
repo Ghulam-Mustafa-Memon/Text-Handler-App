@@ -1,0 +1,68 @@
+/* ______________ Universal ______________ */
+/* * {
+  margin: 0;
+  padding: 0%;
+  text-decoration: none;
+  border: none;
+}
+
+a {
+  font-weight: bolder;
+  color: black;
+}
+
+button {
+  font-weight: bolder;
+  padding: 5px 11px;
+} */
+/* ______________ Navbar ______________ */
+/* nav {
+  padding: 11px;
+  background: rgb(207, 207, 1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.menu a {
+  margin: 3px 6px;
+} */
+/* ______________ Form ______________ */
+/* .form-container {
+  height: 95vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: black;
+}
+form {
+  border-radius: 11px;
+  background: rgb(207, 207, 1);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 11px;
+  align-items: center;
+}
+form input,
+textarea {
+  background: black;
+  color: rgb(207, 207, 1);
+  padding: 11px;
+  margin: 8px;
+  border-radius: 11px;
+  width: 222px;
+}
+form button {
+  transition: 1s ease all;
+  background: rgb(207, 207, 1);
+  color: black;
+  padding: 11px;
+  margin: 8px;
+  border-radius: 11px;
+  width: 222px;
+}
+form button:hover {
+  cursor: pointer;
+  background: black;
+  color: rgb(207, 207, 1);
+} */
